@@ -1,0 +1,7 @@
+  START 200
+A DC '2
+B DS 5
+  ADD BREG A
+  STOP 
+C DC '1
+  END
